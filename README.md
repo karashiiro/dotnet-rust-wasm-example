@@ -2,7 +2,7 @@
 Using Rust from .NET via WASM for simplified cross-platform native (not really, since Rust can't make syscalls this way) builds.
 
 ## Building
-Install [Rust](https://www.rust-lang.org/tools/install) and [WasmEdge](https://wasmedge.org/book/en/quick_start/install.html) before starting.
+Install [Rust](https://www.rust-lang.org/tools/install) before starting.
 
 In the `rust` folder:
 ```shell
